@@ -13,7 +13,7 @@ export default class About extends Component {
             </div>
 
             <div className="nine columns main-col">
-
+ 
                <h2>About Me</h2>
                <p>
                {
@@ -33,7 +33,7 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    <span>{resumeData.telephone}</span>
        					   </p>
                   </div>
                </div>

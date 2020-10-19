@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -324,11 +324,53 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-
 .photoshop {
+   width: 60%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.docker {
+   width: 60%;
+   -moz-animation: docker 2s ease;
+   -webkit-animation: docker 2s ease;
+}
+.java {
+   width: 60%;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
+}
+.php {
+   width: 60%;
+   -moz-animation: php 2s ease;
+   -webkit-animation: php 2s ease;
+}
+.linux {
+   width: 60%;
+   -moz-animation: linux 2s ease;
+   -webkit-animation: linux 2s ease;
+}
+.mysql {
+   width: 60%;
+   -moz-animation: mysql 2s ease;
+   -webkit-animation: mysql 2s ease;
+}
+.latex {
+   width: 60%;
+   -moz-animation: latex 2s ease;
+   -webkit-animation: latex 2s ease;
+}
+.nodejs {
+   width: 60%;
+   -moz-animation: nodejs 2s ease;
+   -webkit-animation: nodejs 2s ease;
+}
+
+
+.javascriptes6 {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: javascriptes6 2s ease;
+  	-webkit-animation: javascriptes6 2s ease;
 }
 .illustrator {
   	width: 55%;

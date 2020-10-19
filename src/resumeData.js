@@ -1,30 +1,37 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://github.com/diogoneiss",
+    "name": "Diogo Neiss",
+    "telephone": "+55 31 98960-7897",
+    "role": "Fullstack Developer and IT Business Connector",
+    "linkedinUrl":"https://www.linkedin.com/in/diogo-neiss/",
     "skypeid": "Your skypeid",
+    "instagramId": "diogoneiss",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/diogo-neiss/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/diogoneiss",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"Instagram",
+          "url":"https://www.instagram.com/diogoneiss/",
+          "className":"fa fab fa-instagram"
+        },
+        {
+          "name":"Email",
+          "url":"mailto:diogo.oliveiran@gmail.com",
+          "className":"fas fa fa-envelope"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am studying Computer Science at Puc Minas. I have been learning computer related subjects since I was a kid, with a passion for learning on my own, such as experimenting, reading and watching. However, one interesting part of my life was the human aspect. I've noticed how I like talking, debation, and even more leading other people, so another part of me spent a lot of time learning and practizicing this side of me.",
+    "address":"Belo Horizonte, MG, Brasil",
+    "website":"https://github.com/diogoneiss",
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",
@@ -60,13 +67,48 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML5",
+        "description": ""
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS",
+        "description": ""
       },
       {
-        "skillname":"Reactjs"
+      "skillname":"Javascript ES6",
+      "description": ""
+      },
+      {
+        "skillname":"ReactJs",
+        "description": ""
+      },
+      {
+        "skillname":"NodeJs",
+        "description": ""
+      },
+      {
+        "skillname":"Wordpress",
+        "description": ""
+      },
+      {
+        "skillname":"PHP",
+        "description": ""
+      },
+      {
+        "skillname":"Linux",
+        "description": ""
+      },
+      {
+        "skillname":"Docker",
+        "description": ""
+      },
+      {
+        "skillname":"Flutter",
+        "description": ""
+      },
+      {
+        "skillname":"LaTeX",
+        "description": ""
       }
     ],
     "portfolio":[
